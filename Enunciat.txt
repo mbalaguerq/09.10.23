@@ -1,0 +1,4 @@
+https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php
+
+Usando clases de Bootstrap para el grid basic,
+Cread la estructura de la imagen
